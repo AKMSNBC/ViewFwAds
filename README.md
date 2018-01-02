@@ -20,9 +20,9 @@ Freewheel iOS Swift Integration.
 MRM Integration SDK downloads. [https://hub.freewheel.tv/display/techdocs/MRM+Integration+SDK+Downloads](https://hub.freewheel.tv/display/techdocs/MRM+Integration+SDK+Downloads)
 
 # Must download additional framework and swift files into this project.
-Freewheel iOS AdManager.framework.
-FWHelper files from iOS Swift demo project.
-Constants.swift (ask me for this file)
+* Freewheel iOS AdManager.framework.
+* FWHelper files from iOS Swift demo project.
+* Constants.swift (ask me for this file)
 
 # Screen Shot instructions
 Launch screens in iPhone 5s and iPhone 8plus
