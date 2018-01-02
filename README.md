@@ -29,3 +29,13 @@ Launch screens in iPhone 5s and iPhone 8plus
 
 ![iphone5s screenshot](/images/iphone5s.png)
 ![iphone8plus screenshot](/images/iphone8plus.png)
+
+Settings slide out panel in iPhone 5s and iphone8plus
+
+![iphone5s screenshot](/images/iphone5sSettings.png)
+![iphone8plus screenshot](/images/iphone8plusSettings.png)
+
+Preroll video ad displayed on screen
+
+![iphone5s screenshot](/images/iphone5sVideoAd.png)
+![iphone8plus screenshot](/images/iphone8plusVideoAd.png)
